@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WorkflowMaintenance.FunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7241"
+    }
+  }
+}
